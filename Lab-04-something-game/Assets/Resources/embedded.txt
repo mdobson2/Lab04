@@ -1,0 +1,24 @@
+BBQ chicken pizza with pepperoni is the best type of pizza.
+true
+The pope visited America on Semptember 22nd 2015.
+true
+The color orange is named after the fruit.
+True
+You can legally drink alcohol while driving in Mississippi.
+true
+George Washington had wooden teeth.
+false
+It is illegal to pee in the ocean in Portugal.
+true
+You can lead a cow down stairs but not upstairs.
+false
+Some turtles can breathe through their butts.
+true
+South Africa has 25 official languages.
+false
+There is a planet that rains glass sideways.
+true
+McDonald's only serves the McLobster in Cape Cod Massachusetts.
+false
+President Calvin Coolidge had a pet racoon.
+true
